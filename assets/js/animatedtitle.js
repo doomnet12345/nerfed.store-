@@ -11,4 +11,4 @@ function animateTitle(Title = "Hello, World!", delay = 300) {
         document.title = newtitle;
     }, delay)
 }
-animateTitle("privsense.wtf",300);
+animateTitle("nerfed.store",300);
